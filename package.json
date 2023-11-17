@@ -33,9 +33,6 @@
       "git add"
     ]
   },
-  "peerDependencies": {
-    "react": "^16.8.0"
-  },
   "optionalDependencies": {
     "crossfilter2": "^1.5.2"
   },
